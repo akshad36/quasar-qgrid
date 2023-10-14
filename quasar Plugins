@@ -1,0 +1,2 @@
+quasar ext add @quasar/axios
+"You can add Quasar plugins using the quasar ext add command. For example, to add the Axios plugin:"
